@@ -5,7 +5,7 @@
 
 
 ## Descripcion del Proyecto
-Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingresas una palabra, le das al boton encriptar y aparecerá cifrado en el espacio a la derecha, además, habilitará un botón para poder copiar el texto cifrado. También puedes decifrarlo si así lo deseas.
+El presente desafio de Alura, llamado Challenge Amigo Secreto, trata de que el jugador digitara los nombres de sus amigos, tantos como quiera, y el sistema escogera un nombre al azar y lo mostrara en pantalla.
 
 ## Estado del Proyecto
 <p align="left">
@@ -18,8 +18,9 @@ Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingres
 - `Funcionalidad 3`: Descifrar texto cifrado 
 
 ## Acceso al Proyecto
-- `Link de GitHub`: https://github.com/EfrenHR21/AluraChallenge.git 
-- `Ejecucion de muestra`: https://efrenhr21.github.io/AluraChallenge/
+- `Link de GitHub`: [https://github.com/EfrenHR21/AluraChallenge.git ](https://github.com/EfrenHR21/Challenge-Amigo-Secreto.git)
+- `Ejecucion de muestra`: [https://efrenhr21.github.io/AluraChallenge/](https://efrenhr21.github.io/Challenge-Amigo-Secreto/)
+  
 
 ## Tecnologías utilizadas
 * HTML
