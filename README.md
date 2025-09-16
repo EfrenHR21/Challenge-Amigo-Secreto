@@ -1,7 +1,7 @@
-# Challenge-Amigo-Secreto
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fa8a2029-571d-4e11-8fa5-3ded62fa1946" /># Challenge-Amigo-Secreto
 
 ## Insignias
-<img src="https://github.com/user-attachments/assets/964e4d8f-ec1f-4969-bc99-695489ae816d" width="115">
+<img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" width="115">
 
 
 ## Descripcion del Proyecto
