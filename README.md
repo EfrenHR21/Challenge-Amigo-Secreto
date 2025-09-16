@@ -12,11 +12,6 @@ El presente desafio de Alura, llamado Challenge Amigo Secreto, trata de que el j
    <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
    </p>
 
-## Caracteristicas de la aplicacion
-- `Funcionalidad 1`: Cifrar el texto escrito
-- `Funcionalidad 2`: Copiar texto cifrado
-- `Funcionalidad 3`: Descifrar texto cifrado 
-
 ## Acceso al Proyecto
 - `Link de GitHub`: [https://github.com/EfrenHR21/AluraChallenge.git ](https://github.com/EfrenHR21/Challenge-Amigo-Secreto.git)
 - `Ejecucion de muestra`: [https://efrenhr21.github.io/AluraChallenge/](https://efrenhr21.github.io/Challenge-Amigo-Secreto/)
